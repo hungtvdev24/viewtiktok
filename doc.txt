@@ -1,0 +1,3 @@
+https://www.python.org/downloads/windows/
+python tiktok_view_bot.py
+pip install requests
